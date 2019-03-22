@@ -1,0 +1,26 @@
+package Ejemplo
+{
+	public static void Main() 
+	{
+	Variable = "Cadena";
+	int a;
+	int b = "Valor"; 
+	dec c = 34.5;
+	dec  d= "A";
+	char e = 'N';
+	char f = 85;
+	
+	string g = "Good Game Noob"; 
+	string h = 512; 
+	if ( x == 0 ) 
+		{
+			 
+		}
+		int z =30;
+		a = 100;
+		int a = 400;
+		int i= 200; 
+		string g = "HeIsCheating";	
+		z=a+g;
+	}
+}
